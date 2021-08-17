@@ -14,11 +14,10 @@
   </a>
 </div>
 
-##
 
 <div style="display: inline-block">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/?username=luisgrange&theme=midnight-purple&show_icons=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgrange&layout=compact&theme=midnight-purple"
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/?username=luisgrange&theme=midnight-purple&show_icons=true" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgrange&layout=compact&theme=midnight-purple"
 </div>
   
 <div style="display: inline_block"><br>
