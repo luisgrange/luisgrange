@@ -1,4 +1,4 @@
-# Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+# Hello Folks 
 <div>
   <p>
     Oi, meu nome é Luís. Sou um estudante de engenharia da computação e entusiasta da segurança da informação. Estou estudando para me tornar um desenvolvedor em breve, além de programar nas horas vagas, adoro jogar CTF quando tenho a oportunidade.
