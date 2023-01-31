@@ -1,7 +1,9 @@
 # Hello Folks 
 <div>
   <p>
-    Oi, meu nome é Luís. Sou um estudante de engenharia da computação e entusiasta da segurança da informação. Estou estudando para me tornar um desenvolvedor em breve, além de programar nas horas vagas, adoro jogar CTF quando tenho a oportunidade.
+    Oi, meu nome é Luís. Sou um estudante de engenharia da computação e entusiasta da segurança da informação. <br/>
+    Atualmente atuo como desenvolvedor web, utilizando as mais diversas linguagens como: PHP, Python, JavaScript/TypeScript, Java, C++.... e por ai vai. <br />
+    Nas horas vagas adoro jogar um CTF para treinar praticas de segurança!
   </p>
   <p>Você pode me encontrar também aqui: </p>
 </div>
